@@ -1,0 +1,203 @@
+,First,Second,Direction,Citation
+0,H4K16ac,Epigenetic Alteration,1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,H4K20me3,Epigenetic Alteration,1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,H3K4me3,Epigenetic Alteration,1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,H3K9me,Epigenetic Alteration,-1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,H3K27me3,Epigenetic Alteration,-1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,HP1a,Epigenetic Alteration,-1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,NuRD,Epigenetic Alteration,-1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,LMNA,Genomic Instability,-1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,Genomic Instability,mtDNA,-1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,Shelterin,Telomere Attrition,1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,HSF1,Loss of Proteostasis,-1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,LMNA,p53,-1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,SIRT6,HK39 deacetylation,1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,SIRT6,IGF-1,-1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,SIRT1,Hsp7,1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,Hsp7,Autophagy,1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,LAMP2a,Autophagy,1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,mTOR,Autophagy,-1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,Autophagy,Loss of Proteostasis,-1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,GH,IGF-1,1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,IGF-1,PI3K,1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,PTEN,PI3K,-1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,PI3K,Akt,1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,Akt,mTOR,1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,mTOR,Dysregulated Nutrient Sensing,-1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,Akt,FOXO1,-1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,FOXO1,Dysregulated Nutrient Sensing,-1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,AMPK,SIRT1,1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,SIRT1,AMPK,1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,AMPK,mTOR,-1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,SIRT1,PCG1a,1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,NFkB,GnRH,-1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,NFkB,IFN-a,1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,NFkB,TNF-a,1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,NFkB,IL-1b,1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,NFkB,IL-2,1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,SIRT1,NFkB,-1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,NR,NAD+,1,https://doi.org/10.1016/j.cell.2013.06.016
+0,NMN,NAD+,1,https://doi.org/10.1016/j.cell.2013.06.016
+0,NAD+,SIRT1,1,https://doi.org/10.1016/j.cell.2013.06.016
+0,CD38,NAD+,-1,https://doi.org/10.1016/j.cell.2013.06.016
+0,PARP1,NAD+,-1,https://doi.org/10.1016/j.cell.2013.06.016
+0,NAD+,Mitochondrial Dysfunction,-1,https://doi.org/10.1016/j.cell.2013.06.016
+0,NAD+,Hsp60,1,https://doi.org/10.1016/j.cell.2013.06.016
+0,NAD+,SOD2,1,https://doi.org/10.1016/j.cell.2013.06.016
+0,TNF-a,NAD+,-1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4112140/
+0,CLOCK,NAD+,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4112140/
+0,BMAL1,NAD+,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4112140/
+0,SIRT1,HIF-1a,-1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4112140/
+0,SIRT1,mtDNA,1,https://www.sciencedirect.com/science/article/pii/S0092867413015213
+0,cMYC,mtDNA,1,https://www.sciencedirect.com/science/article/pii/S0092867413015213
+0,mtDNA,Mitochondrial Dysfunction,-1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,NAD+,lactate,-1,https://www.sciencedirect.com/science/article/pii/S1550413114004628
+0,lactate,Acetyl-CoA,-1,https://www.sciencedirect.com/science/article/pii/S1550413114004628
+0,Acetyl-CoA,PCAF,1,https://www.sciencedirect.com/science/article/pii/S1550413114004628
+0,PCAF,SIRT1,1,https://www.sciencedirect.com/science/article/pii/S1550413114004628
+0,SIRT1,PRDM13,1,https://www.nature.com/articles/npjamd201617
+0,PRDM13,NAD+,1,https://www.nature.com/articles/npjamd201617
+0,SIRT1,NAMPT,1,https://www.nature.com/articles/npjamd201617
+0,NAMPT,NMN,1,https://www.nature.com/articles/npjamd201617
+0,SIRT1,FOXO1,1,https://www.nature.com/articles/npjamd201617
+0,NAD+,Neural stem cells,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4194118/
+0,Neural stem cells,Stem Cell Exhaustion,-1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,SIRT1,UCP2,-1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2734380/
+0,UCP2,Insulin,-1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2734380/
+0,Adiponectin,AMPK,1,http://diabetes.diabetesjournals.org/content/61/6/1315.long
+0,IL-6,NFkB,-1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2734380/
+0,Leptin,NFkB,-1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2734380/
+0,NFkB,Altered Intercellular Communication,1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,IL-6,Altered Intercellular Communication,1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,TNF-a,Altered Intercellular Communication,1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,IL-1b,Altered Intercellular Communication,1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,IFN-a,Altered Intercellular Communication,1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,SIRT1,p53,-1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2734380/
+0,p53,Cellular Senescence,1,http://www.cell.com/cell/pdf/S0092-8674(13)00645-4.pdf
+0,Superoxide,PARP1,-1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2734380/
+0,Superoxide,TNF-a,1,https://www.nature.com/articles/nrd796
+0,Superoxide,IL-1b,1,https://www.nature.com/articles/nrd796
+0,AMPK,UCP2,1,https://www.sciencedirect.com/science/article/pii/S016701151100173X
+0,AMPK,mtDNA,1,https://www.nature.com/articles/ncomms4563
+0,Melatonin,GH,-1,https://www.nature.com/articles/244230a0
+0,Norepinephrine,IL-2,1,https://www.sciencedirect.com/science/article/pii/S0047637401003906
+0,NGF,SOD2,1,https://www.ncbi.nlm.nih.gov/pubmed/9671980
+0,PARP1,NFkB,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2806023/
+0,TRL4,NFkB,1,https://www.physiology.org/doi/full/10.1152/japplphysiol.90470.2008
+0,NO,NFkB,-1,https://www.physiology.org/doi/full/10.1152/japplphysiol.90470.2008
+0,AMPK,ULK1,-1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3405151/
+0,ULK1,Autophagy,-1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3405151/
+0,Cellular Senescence,IL-6,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2879478/?_escaped_fragment_=po=15.0000
+0,Cellular Senescence,IL-1a,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2879478/?_escaped_fragment_=po=15.0000
+0,Cellular Senescence,GM-CSF,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2879478/?_escaped_fragment_=po=15.0000
+0,HSP90,Akt,1,https://www.nature.com/articles/s41467-017-00314-z
+0,Akt,Cellular Senescence,1,https://www.nature.com/articles/s41467-017-00314-z
+0,Loss of Proteostasis,Extracellular Junk,1,http://www.sens.org/research/introduction-to-sens-research/extracellular-junk
+0,Loss of Proteostasis,Intracellular Junk,1,http://www.sens.org/research/introduction-to-sens-research/intracellular-junk
+0,Dysregulated Nutrient Sensing,Extracellular Crosslinks,1,http://www.sens.org/research/introduction-to-sens-research/extracellular-crosslinks
+0,Stem Cell Exhaustion,Cell Loss and Atrophy,1,http://www.sens.org/research/introduction-to-sens-research/cell-loss-and-atrophy
+0,Cellular Senescence,Death-Resistant Cells,1,http://www.sens.org/research/introduction-to-sens-research/deathresistant-cells
+0,Death-Resistant Cells,Cellular Senescence,1,http://www.sens.org/research/introduction-to-sens-research/deathresistant-cells
+0,Genomic Instability,Cancerous Cells,1,http://www.sens.org/research/introduction-to-sens-research/cancerous-cells
+0,Genomic Instability,Mitochondrial Mutations,1,http://www.sens.org/research/introduction-to-sens-research/mitochondrial-mutations
+0,Mitochondrial Dysfunction,Mitochondrial Mutations,1,http://www.sens.org/research/introduction-to-sens-research/mitochondrial-mutations
+0,Mitochondrial Mutations,Mitochondrial Dysfunction,1,http://www.sens.org/research/introduction-to-sens-research/mitochondrial-mutations
+0,SIRT1,LXRa,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2734380/
+0,SIRT1,PTP1B,-1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2734380/
+0,SIRT1,PPARg,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2734380/
+0,PCG1a,Gluconeogenesis,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2734380/
+0,PCG1a,Glycolysis,-1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2734380/
+0,PTP1B,Insulin Sensitivity,-1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2734380/
+0,Insulin Sensitivity,Dysregulated Nutrient Sensing,-1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2734380/
+0,PPARg,Adipogenesis,-1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2734380/
+0,Adipogenesis,Dysregulated Nutrient Sensing,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2734380/
+0,PCG1a,PPARa,1,https://www.sciencedirect.com/science/article/pii/S0167488910002600
+0,PCG1a,NRF-1,1,https://www.sciencedirect.com/science/article/pii/S0167488910002600
+0,PCG1a,ERRa,1,https://www.sciencedirect.com/science/article/pii/S0167488910002600
+0,ERRa,NRF-2,1,https://www.sciencedirect.com/science/article/pii/S0167488910002600
+0,NRF-1,Mitochondrial Biogenesis,1,https://www.sciencedirect.com/science/article/pii/S0167488910002600
+0,NRF-2,Mitochondrial Biogenesis,1,https://www.sciencedirect.com/science/article/pii/S0167488910002600
+0,Mitochondrial Biogenesis,Mitochondrial Dysfunction,-1,https://www.sciencedirect.com/science/article/pii/S0167488910002600
+0,NRF-1,VHL,1,https://www.sciencedirect.com/science/article/pii/S0167488910002600
+0,VHL,HIF1-a,-1,https://www.sciencedirect.com/science/article/pii/S0167488910002600
+0,HIF1-a,Glycolysis,-1,https://www.sciencedirect.com/science/article/pii/S0167488910002600
+0,AMPK,NRF-2,1,https://www.sciencedirect.com/science/article/pii/S1568163711000778
+0,AMPK,NFkB,-1,https://www.sciencedirect.com/science/article/pii/S1568163711000778
+0,AMPK,p53,-1,https://www.sciencedirect.com/science/article/pii/S1568163711000778
+0,LKB1,AMPK,1,https://www.sciencedirect.com/science/article/pii/S1568163711000778
+0,CaMKKb,AMPK,1,https://www.sciencedirect.com/science/article/pii/S1568163711000778
+0,TAK1,AMPK,1,https://www.sciencedirect.com/science/article/pii/S1568163711000778
+0,PP2a,AMPK,-1,https://www.sciencedirect.com/science/article/pii/S1568163711000778
+0,AMPK,CRTC-1,-1,https://www.sciencedirect.com/science/article/pii/S1568163711000778
+0,SIRT1,HSF1,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3429349/
+0,p53,IGF-1,-1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4120491/
+0,IL-6,Thymic Atrophy,1,https://onlinelibrary.wiley.com/doi/full/10.1002/path.2104
+0,Thymic Atrophy,Stem Cell Exhaustion,1,https://onlinelibrary.wiley.com/doi/full/10.1002/path.2104
+0,FOXO1,Stem Cell Exhaustion,-1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4160113/
+0,PTEN,Stem Cell Exhaustion,-1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4160113/
+0,SOD2,Stem Cell Exhaustion,-1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4160113/
+0,SIRT1,Stem Cell Exhaustion,-1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4160113/
+0,Genomic Instability,Stem Cell Exhaustion,1,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4160113/
+0,mTOR,PCG1a,1,https://www.ncbi.nlm.nih.gov/pubmed/23454757
+0,GSK3,PCG1a,-1,https://www.ncbi.nlm.nih.gov/pubmed/23454757
+0,AMPK,PCG1a,1,https://www.ncbi.nlm.nih.gov/pubmed/23454757
+0,TFEB,Autophagy,1,https://www.ncbi.nlm.nih.gov/pubmed/26646498
+0,IGF-1,Ras,1,https://www.ncbi.nlm.nih.gov/pubmed/24579735
+0,Cellular Senescence,CD28,-1,https://www.ncbi.nlm.nih.gov/pubmed/24579735
+0,Ras,Cellular Senescence,1,https://www.ncbi.nlm.nih.gov/pubmed/24579735
+0,Ras,RAF,1,https://www.ncbi.nlm.nih.gov/pubmed/25087968
+0,RAF,MEK,1,https://www.ncbi.nlm.nih.gov/pubmed/25087968
+0,MEK,ErK,1,https://www.ncbi.nlm.nih.gov/pubmed/25087968
+0,Akt,BAD,1,https://www.ncbi.nlm.nih.gov/pubmed/25087968
+0,BAD,Apoptosis,-1,https://www.ncbi.nlm.nih.gov/pubmed/25087968
+0,Akt,PRAS40,1,https://www.ncbi.nlm.nih.gov/pubmed/25087968
+0,PRAS40,mTOR,-1,https://www.ncbi.nlm.nih.gov/pubmed/25087968
+0,Akt,TSC,-1,https://www.ncbi.nlm.nih.gov/pubmed/25087968
+0,TSC,mTOR,-1,https://www.ncbi.nlm.nih.gov/pubmed/25087968
+0,TNF-a,Aromatase,1,https://www.ncbi.nlm.nih.gov/pubmed/23348042
+0,Aromatase,Estrogen,1,https://www.ncbi.nlm.nih.gov/pubmed/23348042
+0,Estrogen,Akt,1,https://www.ncbi.nlm.nih.gov/pubmed/23348042
+0,SHP-1,LcK,-1,https://www.ncbi.nlm.nih.gov/pubmed/24934647
+0,LcK,LAT,1,https://www.ncbi.nlm.nih.gov/pubmed/24934647
+0,LAT,MAPK,1,https://www.ncbi.nlm.nih.gov/pubmed/24934647
+0,MAPK,NFkB,1,https://www.ncbi.nlm.nih.gov/pubmed/24934647
+0,CD28,ROS,1,https://www.ncbi.nlm.nih.gov/pubmed/24934647
+0,BMAL1,mTOR,-1,https://www.ncbi.nlm.nih.gov/pubmed/22481314
+0,ROS,PTEN,-1,https://www.ncbi.nlm.nih.gov/pubmed/24353555
+0,ROS,PTP1B,-1,https://www.ncbi.nlm.nih.gov/pubmed/24353555
+0,ROS,CDC25,-1,https://www.ncbi.nlm.nih.gov/pubmed/24353555
+0,ROS,LNK,-1,https://www.ncbi.nlm.nih.gov/pubmed/24353555
+0,SOD,ROS,-1,https://www.ncbi.nlm.nih.gov/pubmed/24353555
+0,HSP90,HSF1,-1,https://www.ncbi.nlm.nih.gov/pubmed/24094931
+0,PERK,Loss of Proteostasis,-1,https://www.ncbi.nlm.nih.gov/pubmed/24094931
+0,ATF6,Loss of Proteostasis,-1,https://www.ncbi.nlm.nih.gov/pubmed/24094931
+0,IRE1,Loss of Proteostasis,-1,https://www.ncbi.nlm.nih.gov/pubmed/24094931
+0,HSP90,Stem Cell Exhaustion,-1,https://www.ncbi.nlm.nih.gov/pubmed/24094931
+0,NFkB,Klotho,-1,https://www.ncbi.nlm.nih.gov/pubmed/25695404
+0,Klotho,Insulin,-1,https://www.ncbi.nlm.nih.gov/pubmed/25695404
+0,Klotho,Wnt,-1,https://www.ncbi.nlm.nih.gov/pubmed/24094931
+0,Wnt,Stem Cell Exhaustion,-1,https://www.ncbi.nlm.nih.gov/pubmed/24094931
+0,Klotho,ROS,-1,https://www.ncbi.nlm.nih.gov/pubmed/24094931
+0,p16,Cellular Senescence,-1,https://www.ncbi.nlm.nih.gov/pubmed/225
+0,ROS,p16,-1,https://www.ncbi.nlm.nih.gov/pubmed/24094931
+0,ROS,Telomere Attrition,1,https://www.ncbi.nlm.nih.gov/pubmed/24094931
+0,TERT,p16,-1,https://www.ncbi.nlm.nih.gov/pubmed/24094931
+0,TERT,Telomere Attrition,-1,https://www.ncbi.nlm.nih.gov/pubmed/24094931
+0,Wnt,LRP,1,https://www.ncbi.nlm.nih.gov/pubmed/20385253
+0,LRP,GSK3,-1,https://www.ncbi.nlm.nih.gov/pubmed/20385253
+0,GSK3,TSC,1,https://www.ncbi.nlm.nih.gov/pubmed/20385253
+0,PHD,HIF1-a,-1,https://www.ncbi.nlm.nih.gov/pubmed/20385253
+0,HI1-a,TSC,1,https://www.ncbi.nlm.nih.gov/pubmed/20385253
+0,AMPK,TSC,1,https://www.ncbi.nlm.nih.gov/pubmed/20385253
+0,CLOCK,NAMPT,1,https://www.ncbi.nlm.nih.gov/pubmed/25033025
+0,SIRT1,NAMPT,1,https://www.ncbi.nlm.nih.gov/pubmed/25033025
+0,BMAL1,NAMPT,1,https://www.ncbi.nlm.nih.gov/pubmed/25033025
+0,SIRT1,BMAL1,1,https://www.ncbi.nlm.nih.gov/pubmed/25033025
+0,SIRT1,HNF1a,-1,https://www.ncbi.nlm.nih.gov/pubmed/25033025
+0,HNF1a,cMYC,-1,https://www.ncbi.nlm.nih.gov/pubmed/25033025
+0,MEKK,MAP2K4,1,https://www.ncbi.nlm.nih.gov/pubmed/22294612
+0,MAP2K4,JNK,1,https://www.ncbi.nlm.nih.gov/pubmed/22294612
+0,H2AX,Genomic Instability,-1,https://www.ncbi.nlm.nih.gov/pubmed/22902297
+0,NuRD,Genomic Instability,-1,https://www.ncbi.nlm.nih.gov/pubmed/22902297
+0,SIRT1,Genomic Instability,-1,https://www.ncbi.nlm.nih.gov/pubmed/22902297
+0,SIRT6,Genomic Instability,-1,https://www.ncbi.nlm.nih.gov/pubmed/22902297
